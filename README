@@ -1,19 +1,26 @@
 # Sales Analysis Project
 
+## Dataset:
+
+* Superstore.csv
+
 ## Tools Used:
 
 * Excel (Pivot Tables, VLOOKUP)
 
 ## What I Did:
 
-* Analyzed sales & profit by region
-* Identified most profitable category
-* Created dashboard
+* Analyzed sales & profit by segment
+* Created pivot table for summary
 
 ## Key Insights:
 
-* West region highest sales & profit
-* Technology most profitable category
+* Consumer segment highest sales
+* Corporate segment lower profit
+
+## Dashboard Preview:
+
+![Sales Analysis](screenshots/sales-segment-analysis.png)
 
 ## Outcome:
 
