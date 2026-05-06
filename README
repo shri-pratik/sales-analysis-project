@@ -1,27 +1,66 @@
-# Sales Analysis Project
+# 📊 Sales Analysis Project
 
-## Dataset:
+## 📁 Dataset
 
 * Superstore.csv
 
-## Tools Used:
+## 🛠️ Tools Used
 
-* Excel (Pivot Tables, VLOOKUP)
+* Microsoft Excel
 
-## What I Did:
+  * Pivot Tables
+  * VLOOKUP
+  * Data Cleaning
 
-* Analyzed sales & profit by segment
-* Created pivot table for summary
+## 📌 Objective
 
-## Key Insights:
+Analyze sales and profit data to identify trends, top-performing categories, and business insights.
 
-* Consumer segment highest sales
-* Corporate segment lower profit
+---
 
-## Dashboard Preview:
+## 📊 Analysis Screens
 
-![Sales Analysis](screenshots/sales-segment-analysis.png)
+### 🔹 Sales by Segment
 
-## Outcome:
+![Segment](screenshots/sales-performance-by-segment.png)
 
-Converted raw data into actionable insights
+### 🔹 Category Performance
+
+![Category](screenshots/category-performance-analysis.png)
+
+### 🔹 Region-wise Analysis
+
+![Region](screenshots/region-sales-profit-analysis.png)
+
+### 🔹 Sub-Category Breakdown
+
+![SubCategory](screenshots/sub-category-sales-profit-analysis.png)
+
+---
+
+## 🔍 Key Insights
+
+* Consumer segment generated the highest sales
+* Technology category was the most profitable
+* West region led in both sales and profit
+* Some sub-categories like Tables and Bookcases showed losses
+
+---
+
+## 🎯 Outcome
+
+Converted raw data into meaningful insights to support business decision-making.
+
+---
+
+## 🚀 Future Improvements
+
+* Build interactive dashboard
+* Perform SQL-based analysis
+* Use Python for deeper insights
+
+---
+
+## 📬 Contact
+
+Open to entry-level Data Analyst opportunities and startup roles.
