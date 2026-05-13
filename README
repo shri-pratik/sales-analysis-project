@@ -2,65 +2,87 @@
 
 ## 📁 Dataset
 
-* Superstore.csv
+- Superstore.csv
 
 ## 🛠️ Tools Used
 
-* Microsoft Excel
-
-  * Pivot Tables
-  * VLOOKUP
-  * Data Cleaning
+- Google Sheets / Microsoft Excel
+  - Data Cleaning
+  - Pivot Tables
+  - Pivot Charts
+  - Basic Formulas (SUM, AVERAGE, IF, VLOOKUP)
 
 ## 📌 Objective
 
-Analyze sales and profit data to identify trends, top-performing categories, and business insights.
+Analyze sales and profit data to identify trends, top-performing categories, and actionable business insights.
 
 ---
 
 ## 📊 Analysis Screens
 
 ### 🔹 Sales by Segment
-
 ![Segment](screenshots/sales-performance-by-segment.png)
 
 ### 🔹 Category Performance
-
 ![Category](screenshots/category-performance-analysis.png)
 
 ### 🔹 Region-wise Analysis
-
 ![Region](screenshots/region-sales-profit-analysis.png)
 
 ### 🔹 Sub-Category Breakdown
-
 ![SubCategory](screenshots/sub-category-sales-profit-analysis.png)
+
+### 🔹 Dashboard
+![Dashboard](screenshots/superstore-sales-dashboard.png)
 
 ---
 
 ## 🔍 Key Insights
 
-* Consumer segment generated the highest sales
-* Technology category was the most profitable
-* West region led in both sales and profit
-* Some sub-categories like Tables and Bookcases showed losses
+- Consumer segment generated the highest sales.
+- Technology category was the most profitable.
+- West region led in total sales and profit.
+- South region had the lowest sales among all regions.
+- Some sub-categories such as Tables and Bookcases showed losses.
+
+---
+
+## 📈 KPIs Tracked
+
+- Total Sales
+- Total Profit
+- Average Sales
+- Top Performing Region
+- Lowest Performing Region
 
 ---
 
 ## 🎯 Outcome
 
-Converted raw data into meaningful insights to support business decision-making.
+Converted raw sales data into meaningful insights using data cleaning, pivot tables, and dashboard design techniques to support business decision-making.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- KPI Calculation
+- Data Visualization
+- Dashboard Design
+- Business Insight Generation
 
 ---
 
 ## 🚀 Future Improvements
 
-* Build interactive dashboard
-* Perform SQL-based analysis
-* Use Python for deeper insights
+- Add interactive slicers and filters
+- Expand the dashboard with monthly trend analysis
+- Compare year-over-year performance
 
 ---
 
 ## 📬 Contact
 
-Open to entry-level Data Analyst opportunities and startup roles.
+Open to entry-level Data Analyst opportunities and internship roles.
